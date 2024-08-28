@@ -25,7 +25,7 @@ To address this issue, we propose a solution that includes tokenization informat
 
 The experiments are performed using the [GeoEDdA dataset](https://huggingface.co/datasets/GEODE/GeoEDdA) which contains semantic annotations (at the token and span levels) for named entities (i.e., Spatial, Person, and Misc), nominal entities, spatial relations, and geographic coordinates. Nested named entities also present in this dataset were not considered in this experiment.
 
-GPT models from the [OpenAI API](https://openai.com) (gpt-3.5-turbo-0125, gpt-4-0613 and gpt-4o-2024-05-13) were evaluated through the LangChain Python framework. 
+GPT models from the [OpenAI API](https://openai.com) (`gpt-3.5-turbo-0125`, `gpt-4-0613` and `gpt-4o-2024-05-13`) were evaluated through the LangChain Python framework. 
 Jupyter notebooks for token and span levels are available in this repository.
 
 
