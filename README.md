@@ -14,4 +14,8 @@ export OPENAI_API_KEY="sk-..."
 
 
 
+## Acknowledgements
+
+The authors are grateful to the ASLAN project (ANR-10-LABX-0081) of the Université de Lyon, for its financial support within the French program "Investments for the Future" operated by the National Research Agency (ANR).
+
 
