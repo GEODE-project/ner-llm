@@ -1,0 +1,6 @@
+jupyter
+scikit-learn
+pandas
+langchain-core
+datasets
+matplotlib
