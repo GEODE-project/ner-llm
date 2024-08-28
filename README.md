@@ -39,6 +39,10 @@ Jupyter notebooks for token and span levels are available in this repository.
 
 * [token_classification_gpt_evaluation.ipynb](https://github.com/GEODE-project/ner-llm/blob/main/token_classification_gpt_evaluation.ipynb)
 
+
+![Token classification evaluation](evaluations/token_classification_gpt_vs_bert_f1scores.png)
+
+
 ## Span categorization
 
 *come back later*
