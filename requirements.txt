@@ -1,6 +1,7 @@
-jupyter
+jupyter==1.1.1
 scikit-learn
 pandas
-langchain-core
+langchain-core==0.3.5
+langchain_openai==0.2.0
 datasets
 matplotlib
