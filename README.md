@@ -33,7 +33,8 @@ Jupyter notebooks for token and span levels are available in this repository.
 
 ### Running the experiments
 
-*come back later*
+* [token_classification_gpt.ipynb](https://github.com/GEODE-project/ner-llm/blob/main/token_classification_gpt.ipynb)
+
 
 ### Evaluation
 
