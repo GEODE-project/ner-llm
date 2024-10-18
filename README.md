@@ -40,7 +40,7 @@ Jupyter notebooks for token and span levels are available in this repository.
 
 * [token_classification_gpt_evaluation.ipynb](https://github.com/GEODE-project/ner-llm/blob/main/token_classification_gpt_evaluation.ipynb)
 
-Micro average F1-scores (with a comparison with a [fine-tuned BERT](https://huggingface.co/GEODE/bert-base-french-cased-edda-ner) model):
+Micro average F1-scores (with a comparison with a [fine-tuned BERT](https://huggingface.co/GEODE/camembert-base-edda-span-classification) model):
 ![Token classification evaluation](evaluations/token_classification_gpt_vs_bert_f1scores.png)
 
 
