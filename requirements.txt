@@ -5,4 +5,5 @@ langchain-core==0.3.15
 langchain_openai==0.2.0
 datasets==3.0.0
 matplotlib==3.9.2
-ollama
+dotenv
+ollama_instructor
