@@ -1,9 +1,9 @@
-jupyter==1.1.1
-scikit-learn==1.5.2
-pandas==2.2.3
-langchain-core==0.3.8
-langchain_openai==0.2.0
-datasets==3.0.0
-matplotlib==3.9.2
+jupyter
+scikit-learn
+pandas
+langchain-core
+langchain_openai
+datasets
+matplotlib
 dotenv
 ollama_instructor
